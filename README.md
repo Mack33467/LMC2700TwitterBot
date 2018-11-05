@@ -4,6 +4,7 @@ Hopefully now it can serve as an example of how to make a basic twitter bot/ how
 Twitter's API request.
 
  The bot is still running at this page:https://twitter.com/CraftGoodVibes
+ 
  All the code for a functional bot is present in the files provided here, but you need an
  API key from https://developer.twitter.com/content/developer-twitter/en.html
 
