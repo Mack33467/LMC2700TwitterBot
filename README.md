@@ -1,6 +1,6 @@
 # LMC2700TwitterBot
-This bot originated as a project for my class LMC2700: Introduction to Computational Media\n
-Hopefully now it can serve as an example of how to make a basic twitter bot/ how to format\n
+This bot originated as a project for my class LMC2700: Introduction to Computational Media
+Hopefully now it can serve as an example of how to make a basic twitter bot/ how to format
 Twitter's API request
 
 The bot is still running at this page:https://twitter.com/CraftGoodVibes
